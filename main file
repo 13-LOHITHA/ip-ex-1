@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+    <center>
+        <div>world map</div><br>
+    </center>
+    <img src="https://i.pinimg.com/originals/07/eb/3b/07eb3b288bd6862fd3028d6744653b59.jpg" height="500" width="500" usemap="#mapl">
+        <map name="mapl">
+            <area shape="circle" coords="100,190,50" href=" abc.html">
+            <area shape="circle" coords="400,390,50" href=" abc2.html">
+            <area shape="circle" coords="352,200,200" href=" abc1.html">
+        </map>
+    </body>
+</html>
